@@ -1,0 +1,57 @@
+/*
+Description: GMC Quiz Plugin with Short Codes
+Author: Santosh Kalra
+Author URI: 
+Date:20011-07-25
+*/
+
+.gmc_question_template
+{
+	border: 1px solid #888888;
+	-moz-border-radius: 10px;
+	border-radius: 10px;
+	padding: 10px;
+	background: #EEEEEE;
+}
+
+.gmc_options_padding
+{
+	border: 0px sold #000000;
+	/* -moz-border-radius: 10px;
+	border-radius: 10px; */
+	color: Blue;
+	padding: 10px;
+}
+
+
+.gmc_options
+{
+	border: 0px sold #000000;
+	/* -moz-border-radius: 10px;
+	border-radius: 10px; */
+	color: Blue;
+	padding: 10px;
+	background-color: #ffffff;
+	clear: both;
+}
+
+.gmc_options option
+{
+	border: 0px sold #000000;
+	/* -moz-border-radius: 10px;
+	border-radius: 10px; */
+	color: Blue;
+	padding: 10px;
+	background-color: #ffffff;
+}
+
+
+.gmc_question
+{
+	border-radius: 10px;
+	-moz-border-radius: 10px;
+	padding: 10px;
+	color: Red;
+	background: #dddddd;
+	font-weight: bold;
+}
